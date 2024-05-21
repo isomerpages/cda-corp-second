@@ -1,0 +1,6 @@
+collections:
+  research-and-lab-programmes:
+    output: true
+    order:
+      - Research Strategy & Coordination.md
+      - National Public Health Lab/.keep
