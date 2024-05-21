@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Marvin Test Page.md
-      - folder-page.md
+      - Folder Page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
