@@ -1,0 +1,9 @@
+collections:
+  our-programmes:
+    output: true
+    order:
+      - Programmes Highlights.md
+      - National HIV, STI and Viral Hepatitis Programme.md
+      - National TB Programme/About NTBP.md
+      - National TB Programme/.keep
+      - AMRO.md

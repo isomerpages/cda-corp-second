@@ -1,0 +1,15 @@
+collections:
+  test:
+    output: true
+    order:
+      - Example Title 11.md
+      - Example Title 10.md
+      - Example Title  9.md
+      - Example Title 8.md
+      - Example Title 7.md
+      - Example Title 6.md
+      - Example Title 5.md
+      - Example Title 4.md
+      - Example Title 3.md
+      - Example Title 2.md
+      - Example Title.md

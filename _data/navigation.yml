@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/cda_logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: For General Public
+    collection: for-general-public
+  - title: For Professionals
+    collection: for-professionals
+  - title: Our Programmes
+    collection: our-programmes
+  - title: NPHL and Research
+    collection: nphl-and-research
+  - title: News & Events
+    collection: news-and-events
+  - title: About CDA
+    collection: who-we-are
+  - title: I Want To
+    collection: e-service
