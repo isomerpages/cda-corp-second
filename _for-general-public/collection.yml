@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - Diseases.md
       - Overview.md
       - Vaccinations.md
       - Travel Health.md
