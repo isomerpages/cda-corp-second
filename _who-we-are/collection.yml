@@ -2,12 +2,12 @@ collections:
   who-we-are:
     output: true
     order:
+      - Who We Are.md
+      - Leadership.md
+      - Careers.md
       - Careers/.keep
       - Careers/Careers at CDA.md
       - Careers/Healthcare Scholarship, Grants, Fellowship and Internship.md
       - Careers/Featured Stories.md
       - Careers/Recruitment Journey.md
-      - Who We Are.md
-      - Leadership.md
-      - Careers.md
       - Contact Us.md
