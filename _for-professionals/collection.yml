@@ -2,13 +2,9 @@ collections:
   for-professionals:
     output: true
     order:
-      - National Health Public Laboratory.md
-      - CDA Research.md
-      - Preparedness.md
       - Overview.md
       - Professional Training.md
       - Vaccinations.md
-      - One Health.md
       - Diseases/.keep
       - Diseases/HIV, STI and Viral Hepatitis.md
       - Diseases/Tuberculosis.md
@@ -16,5 +12,9 @@ collections:
       - Diseases/Foodborne Diseases.md
       - Diseases/Vector Borne Diseases.md
       - Diseases/Contact Transmissible and Other Diseases.md
+      - One Health.md
       - Healthcare Epidemiology.md
       - Travel Health.md
+      - Preparedness.md
+      - CDA Research.md
+      - National Health Public Laboratory.md
