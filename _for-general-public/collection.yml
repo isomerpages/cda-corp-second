@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - Training and Education.md
       - Preparedness.md
       - Diseases.md
       - Overview.md
