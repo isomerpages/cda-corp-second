@@ -2,6 +2,7 @@ collections:
   diseases:
     output: true
     order:
+      - A to F/.keep
       - G to L/Haemophilus Influenzae Type B (HiB).md
       - G to L/.keep
       - M to S/Malaria.md
