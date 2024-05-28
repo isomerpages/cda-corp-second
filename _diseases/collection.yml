@@ -2,5 +2,6 @@ collections:
   diseases:
     output: true
     order:
+      - T to Z/Yellow Fever.md
       - T to Z/Zika Virus Infection.md
       - T to Z/.keep
