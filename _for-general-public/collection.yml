@@ -2,9 +2,9 @@ collections:
   for-general-public:
     output: true
     order:
-      - Training and Education.md
-      - Preparedness.md
-      - Diseases.md
       - Overview.md
       - Vaccinations.md
+      - Diseases.md
       - Travel Health.md
+      - Preparedness.md
+      - Training and Education.md
