@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - G to L/.keep
-      - Haemophilus Influenzae Type B (HiB).md
       - M to S/Malaria.md
       - M to S/.keep
       - T to Z/Tetanus.md
