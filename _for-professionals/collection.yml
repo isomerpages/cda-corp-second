@@ -2,6 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
+      - National Health Public Laboratory.md
       - CDA Research.md
       - Preparedness.md
       - Overview.md
