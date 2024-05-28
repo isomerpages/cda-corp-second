@@ -2,7 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
-      - Leadership.md
       - Who We Are.md
+      - Leadership.md
       - Careers.md
       - Contact Us.md
