@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Careers/Recruitment Journey.md
       - Careers/Featured Stories.md
       - Careers/Healthcare Scholarship, Grants, Fellowship and Internship.md
       - Careers/Careers at CDA.md
