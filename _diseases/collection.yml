@@ -2,6 +2,8 @@ collections:
   diseases:
     output: true
     order:
+      - A to F/.keep
+      - A to F/Acute respiratory infections.md
       - A to F/Avian Influenza.md
       - A to F/Botulism.md
       - A to F/Campylobacteriosis.md
@@ -13,8 +15,6 @@ collections:
       - A to F/Food poisoning (Foodborne illness).md
       - A to F/Foodborne intoxication (Bacillus cereus, Clostridium perfringens
         and Staphylococcus aureus).md
-      - A to F/Acute respiratory infections.md
-      - A to F/.keep
       - G to L/Haemophilus Influenzae Type B (HiB).md
       - G to L/.keep
       - M to S/Malaria.md
