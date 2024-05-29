@@ -2,5 +2,4 @@ collections:
   folder-holder:
     output: true
     order:
-      - Patients.md
       - Infection prevention and control.md
