@@ -2,7 +2,6 @@ collections:
   folder-holder:
     output: true
     order:
-      - Educational Materials.md
       - Employer.md
       - Patients Contact.md
       - Patients.md
