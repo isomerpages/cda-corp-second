@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Employer.md
       - Programmes Highlights.md
       - National HIV, STI and Viral Hepatitis Programme.md
       - National TB Programme/Patients.md
