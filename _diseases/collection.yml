@@ -2,6 +2,7 @@ collections:
   diseases:
     output: true
     order:
+      - A to F/Botulism.md
       - A to F/Campylobacteriosis.md
       - A to F/Chikungunya Fever.md
       - A to F/Cholera and other Vibrioses.md
