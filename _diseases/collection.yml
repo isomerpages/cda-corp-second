@@ -2,6 +2,7 @@ collections:
   diseases:
     output: true
     order:
+      - A to F/Cholera and other Vibrioses.md
       - A to F/Dengue Fever (Dengue Haemorrhagic Fever).md
       - A to F/Diphtheria.md
       - A to F/Ebola Virus Disease.md
