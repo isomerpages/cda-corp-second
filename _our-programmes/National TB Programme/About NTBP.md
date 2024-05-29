@@ -7,64 +7,40 @@ third_nav_title: National TB Programme
 ---
 <h2><strong>National Tuberculosis Programme</strong></h2>
 <p></p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/patients/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_023938.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p>I HAVE BEEN DIAGNOSED WITH TUBERCULOSIS</p>
-<p><a href="/patients/" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE</a>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_024009.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_023938.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>I AM CONTACT OF SOMEONE WITH TUBERCULOSIS</p>
-<p><a href="/patients-contact/" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_024049.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_024009.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>I AM POINT OF CONTACT (POC) FOR CONTACT TRACING</p>
-<p><a href="/employee/" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_024054.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_024049.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>I AM INTERESTED TO KNOW MORE ABOUT TUBERCULOSIS</p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE</a>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_024054.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_05_29_182402.png">
+</div>
 </td>
 </tr>
 </tbody>
@@ -85,4 +61,7 @@ doloremque laudantium, totam rem aperiam, eaque ipsa quae ab</div>
 </div>
 </a>
 </div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
