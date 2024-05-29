@@ -2,6 +2,7 @@ collections:
   diseases:
     output: true
     order:
+      - A to F/Diphtheria.md
       - A to F/Ebola Virus Disease.md
       - A to F/Food poisoning (Foodborne illness).md
       - A to F/Foodborne intoxication (Bacillus cereus, Clostridium perfringens
