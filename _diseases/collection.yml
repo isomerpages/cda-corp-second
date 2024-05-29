@@ -2,6 +2,8 @@ collections:
   diseases:
     output: true
     order:
+      - A to F/Foodborne intoxication (Bacillus cereus, Clostridium perfringens
+        and Staphylococcus aureus).md
       - A to F/Acute respiratory infections.md
       - A to F/.keep
       - G to L/Haemophilus Influenzae Type B (HiB).md
