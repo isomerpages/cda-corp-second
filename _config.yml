@@ -3,7 +3,7 @@ url: https://cda.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#fa9955"
-  secondary-color: "#0e5ba9"
+  secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
       color: "#49759a"
