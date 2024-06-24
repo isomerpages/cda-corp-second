@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Lorem Ipsum Dolor
       subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-      background: /images/grey_opacity.png
+      background: /images/hero_banner_2.png
       key_highlights:
         - title: Events
           description: ""
