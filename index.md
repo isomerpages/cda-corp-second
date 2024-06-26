@@ -8,24 +8,23 @@ notification: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua.
 sections:
   - hero:
-      title: Lorem Ipsum Dolor
-      subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+      title: Protecting Health and Saving Lives
       background: /images/hero_banner_2.png
       key_highlights:
-        - title: Events
+        - title: WEEKLY INFECTIOUS DISEASES BULLETIN
           description: ""
           url: /
-        - title: Programmes Highlights
+        - title: HIV SELF-TESTING KIT LAUNCHED
           description: ""
           url: /
-        - title: Data & Statistics
+        - title: PANDEMIC PREPAREDNESS
           description: ""
           url: /data-1
       variant: center
       backgroundColor: gray
       size: sm
       alignment: left
-      button: Lorem Ipsum
+      button: About Us
       url: /
   - announcements:
       title: Latest News
