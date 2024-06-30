@@ -9,7 +9,7 @@ notification: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 sections:
   - hero:
       title: Protecting Health and Saving Lives
-      background: /images/hero_banner_2.png
+      background: /images/new_banner_4.jpg
       key_highlights:
         - title: WEEKLY INFECTIOUS DISEASES BULLETIN
           description: ""
