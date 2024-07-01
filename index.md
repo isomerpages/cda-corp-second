@@ -4,8 +4,9 @@ title: CDA Staging 2
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+notification: '<b style="font-size: 32px;">Lorem ipsum dolor sit amet,
+  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+  dolore magna aliqua. </b>'
 sections:
   - hero:
       title: Protecting Health and Saving Lives
