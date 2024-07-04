@@ -2,19 +2,19 @@ collections:
   for-general-public:
     output: true
     order:
-      - Antimicrobial Resistance/About Antimicrobial Resistance.md
-      - Antimicrobial Resistance/About National Strategic Action Plan (NSAP) and
-        Antimicrobial Resistance Coordinating Office (AMRCO).md
-      - Antimicrobial Resistance/.keep
-      - Pandemic Preparedness.md
+      - Diseases/.keep
       - Diseases/A to F.md
       - Diseases/G to L.md
       - Diseases/M to S.md
       - Diseases/T to Z.md
-      - Diseases/.keep
-      - Overview.md
       - Vaccinations.md
-      - Diseases.md
       - Travel Health.md
+      - Antimicrobial Resistance/.keep
+      - Antimicrobial Resistance/About Antimicrobial Resistance.md
+      - Antimicrobial Resistance/About National Strategic Action Plan (NSAP) and
+        Antimicrobial Resistance Coordinating Office (AMRCO).md
+      - Pandemic Preparedness.md
+      - Overview.md
+      - Diseases.md
       - Preparedness.md
       - Training and Education.md
