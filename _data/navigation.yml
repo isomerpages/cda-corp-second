@@ -1,13 +1,15 @@
 logo: /images/cda_logo.png
 links:
-  - title: For General Public
+  - title: For Public
     collection: for-general-public
   - title: For Professionals
     collection: for-professionals
-  - title: Our Programmes
-    collection: our-programmes
+  - title: Research
+    collection: datas
+  - title: NPHL
+    collection: datas
   - title: News & Events
-    collection: news-and-events
+    resource_room: true
   - title: About CDA
     collection: who-we-are
   - title: I Want To
