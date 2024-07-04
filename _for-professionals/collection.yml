@@ -2,6 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
+      - Antimicrobial Resistance/About Antimicrobial Resistance.md
       - Antimicrobial Resistance/About the Antimicrobial Resistance Coordinating
         Office (AMRCO).md
       - Antimicrobial Resistance/About Singapore’s National Strategic Action
