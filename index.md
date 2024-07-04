@@ -4,12 +4,10 @@ title: CDA Staging 2
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: '<b style="font-size: 32px;">Lorem ipsum dolor sit amet,
-  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. </b>'
+notification: "Alert: Bird flu outbreak in several parts of Southeast Asia."
 sections:
   - hero:
-      title: Protecting Health and Saving Lives
+      title: Protecting Singapore from communicable diseases
       background: /images/new_banner_4.jpg
       key_highlights:
         - title: WEEKLY INFECTIOUS DISEASES BULLETIN
@@ -25,12 +23,11 @@ sections:
       backgroundColor: gray
       size: sm
       alignment: left
-      button: About Us
+      button: About CDA
       url: /
   - announcements:
-      title: Latest News
+      title: Updates
       id: announcements
-      subtitle: Ut enim ad minim veniam quiSET
       announcement_items:
         - title: Lorem ipsum dolor sit amet
           date: 21 March 2024
@@ -55,32 +52,57 @@ sections:
           link_text: Excepteur Sint Occaecat
           link_url: /
   - resources:
-      title: Resources
+      title: News and Events
       subtitle: UT ENIM AD MINIM VENIAM
       id: resources
       button: SEE ALL
+  - textcards:
+      title: Insightful Analytics
+      subtitle: DATA & STATISTICS
+      id: textcards
+      cards:
+        - title: Weekly Infectious Diseases Bulletin
+          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          linktext: Learn more
+          url: ""
+        - title: National Research Foundation Grants
+          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          linktext: Learn more
+          url: ""
+        - title: Antimicrobial Resistance
+          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          linktext: Learn more
+          url: ""
   - infopic:
-      title: Infopic
-      subtitle: sitamet consectetur adipiscing
+      title: Communicable Diseases Research
+      subtitle: DECODING DISEASES
       id: infopic
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis noste
-      button: Lorem ipsum
+      description: Research plays a significant role in national preparedness and
+        defence against emerging communicable diseases in Singapore.
+      button: EXPLORE OUR RESEARCH EFFORTS
       alt: Image alt text
       image: /images/4_3.png
       url: /
   - infopic:
-      title: Infopic
-      subtitle: SITAMET CONSECTETUR ADIPISCING
+      title: National Public Health Laboratory (NPHL)
+      subtitle: STAYING AHEAD OF THREATS
       id: infopic
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis noster
-      button: Lorem ipsum
+      description: NPHL conducts laboratory investigations to support surveillance of
+        communicable diseases, control of outbreaks, and preparedness for new
+        and risky pathogens.
+      button: LEARN MORE ABOUT NPHL
       alt: Image alt text
       image: /images/4_3.png
       url: /
+  - infopic:
+      title: End TB Together
+      subtitle: TUBERCULOSIS AWARENESS
+      id: infopic
+      description: Early diagnosis is key to treating TB effectively. Learn more about
+        the disease and its symptoms.
+      button: BROWSE CAMPAIGN RESOURCES
+      url: /
+      alt: Image alt text
   - infobar:
       title: Infobar
       subtitle: SITAMET CONSECTETUR ADIPISCING
@@ -139,26 +161,6 @@ sections:
         - title: Lorem Ipsum Dolor
           description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
             accusantium doloremque laudantium, totam rem aperiam.
-  - textcards:
-      title: Text Cards
-      subtitle: Lorem Ipsum Dolor
-      id: textcards
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis nosterLorem ipsum dolor sit amet.
-      cards:
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: ""
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: ""
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: ""
   - infocols:
       title: Info-columns
       subtitle: SITAMET CONSECTETUR ADIPIS
