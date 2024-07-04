@@ -2,8 +2,8 @@ title: CDA Staging 2
 url: https://cda.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#fa9955"
-  secondary-color: "#4372d6"
+  primary-color: "#1d63ae"
+  secondary-color: "#9a2b1f"
   media-colors:
     - title: media-color-one
       color: "#d0021b"
