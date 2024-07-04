@@ -2,5 +2,6 @@ collections:
   research:
     output: true
     order:
+      - Scientific Research Advisory Board.md
       - Methodology.md
       - Grant Analysis.md
