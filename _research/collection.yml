@@ -2,4 +2,5 @@ collections:
   research:
     output: true
     order:
+      - Methodology.md
       - Grant Analysis.md
