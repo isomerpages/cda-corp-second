@@ -2,6 +2,7 @@ collections:
   nphl:
     output: true
     order:
+      - Background.md
       - Laboratory Programmes/Bacteriology.md
       - Laboratory Programmes/Virology.md
       - Laboratory Programmes/Malaria and other parasites.md
