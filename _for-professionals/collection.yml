@@ -2,32 +2,32 @@ collections:
   for-professionals:
     output: true
     order:
-      - National HIV Programme/About NHIVP.md
-      - National HIV Programme/HIV Self Testing Pilot Programme.md
-      - National HIV Programme/.keep
+      - Diseases/.keep
+      - Diseases/A to F.md
+      - Diseases/G to L.md
+      - Diseases/M to S.md
+      - Diseases/T to Z.md
+      - Vaccinations.md
+      - Travel Health.md
+      - One Health.md
+      - Antimicrobial Resistance/.keep
+      - Antimicrobial Resistance/About Antimicrobial Resistance.md
+      - Antimicrobial Resistance/About the Antimicrobial Resistance Coordinating
+        Office (AMRCO).md
+      - Antimicrobial Resistance/About Singapore’s National Strategic Action
+        Plan (NSAP) on AMR.md
+      - Healthcare Epidemiology.md
+      - Professional Training.md
+      - National TB Programme/.keep
       - National TB Programme/About NTBP.md
       - National TB Programme/History and Goals.md
       - National TB Programme/Organisation Structure.md
       - National TB Programme/Info Sheet.md
       - National TB Programme/Media Spotlight.md
       - National TB Programme/Contact Us.md
-      - National TB Programme/.keep
-      - Antimicrobial Resistance/About Antimicrobial Resistance.md
-      - Antimicrobial Resistance/About the Antimicrobial Resistance Coordinating
-        Office (AMRCO).md
-      - Antimicrobial Resistance/About Singapore’s National Strategic Action
-        Plan (NSAP) on AMR.md
-      - Antimicrobial Resistance/.keep
-      - Diseases/A to F.md
-      - Diseases/G to L.md
-      - Diseases/M to S.md
-      - Diseases/T to Z.md
-      - Diseases/.keep
+      - National HIV Programme/.keep
+      - National HIV Programme/About NHIVP.md
+      - National HIV Programme/HIV Self Testing Pilot Programme.md
       - Overview.md
-      - Professional Training.md
-      - Vaccinations.md
-      - One Health.md
-      - Healthcare Epidemiology.md
-      - Travel Health.md
       - Preparedness.md
       - CDA Research.md
