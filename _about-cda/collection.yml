@@ -2,6 +2,7 @@ collections:
   about-cda:
     output: true
     order:
+      - International Collaborations.md
       - Who We Are.md
       - Careers/.keep
       - Careers/Careers at CDA.md
