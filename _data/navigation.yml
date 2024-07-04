@@ -4,7 +4,11 @@ links:
     collection: for-public
   - title: For Professionals
     collection: for-professionals
-  - title: News & Events
+  - title: Research
+    collection: research
+  - title: NPHL
+    collection: nphl
+  - title: News and Events
     resource_room: true
   - title: About Cda
     collection: about-cda
