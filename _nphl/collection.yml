@@ -2,6 +2,7 @@ collections:
   nphl:
     output: true
     order:
+      - Laboratory Analytical Methods/Microscopy.md
       - Laboratory Analytical Methods/Light Microscopy.md
       - Laboratory Analytical Methods/Fluorescent Microscopy.md
       - Laboratory Analytical Methods/.keep
