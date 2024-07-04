@@ -2,11 +2,11 @@ collections:
   about-cda:
     output: true
     order:
-      - International Collaborations.md
       - Who We Are.md
       - Careers/.keep
       - Careers/Careers at CDA.md
       - Careers/Healthcare Funding and Opportunities.md
       - Careers/Officers in Action.md
       - Careers/Recruitment Journey.md
+      - International Collaborations.md
       - Contact Us.md
