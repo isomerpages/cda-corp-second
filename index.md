@@ -51,7 +51,7 @@ sections:
       id: resources
       button: SEE ALL
   - textcards:
-      title: Data & Statistics
+      title: Data and Statistics
       id: textcards
       cards:
         - title: Vector Borne Diseases (VBDs)
