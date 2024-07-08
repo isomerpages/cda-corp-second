@@ -74,7 +74,7 @@ sections:
         defence against emerging communicable diseases in Singapore.
       button: EXPLORE OUR RESEARCH EFFORTS
       alt: Image alt text
-      image: /images/4_3.png
+      image: /images/Research_Infopic.png
       url: /
   - infopic:
       title: National Public Health Laboratory (NPHL)
@@ -85,7 +85,7 @@ sections:
         and risky pathogens.
       button: LEARN MORE ABOUT NPHL
       alt: Image alt text
-      image: /images/4_3.png
+      image: /images/NPHL_Infopic.png
       url: /
   - infopic:
       title: End TB Together
@@ -96,4 +96,5 @@ sections:
       button: BROWSE CAMPAIGN RESOURCES
       url: /
       alt: Image alt text
+      image: /images/TB_WIP.jpg
 ---
