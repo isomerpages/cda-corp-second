@@ -48,15 +48,13 @@ sections:
           link_url: /
   - resources:
       title: News and Events
-      subtitle: UT ENIM AD MINIM VENIAM
       id: resources
       button: SEE ALL
   - textcards:
-      title: Insightful Analytics
-      subtitle: DATA & STATISTICS
+      title: Data & Statistics
       id: textcards
       cards:
-        - title: Weekly Infectious Diseases Bulletin
+        - title: Vector Borne Diseases (VBDs)
           description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
           linktext: Learn more
           url: ""
