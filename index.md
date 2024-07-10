@@ -8,7 +8,7 @@ notification: "Alert: Bird flu outbreak in several parts of Southeast Asia."
 sections:
   - hero:
       title: Protecting Singapore from communicable diseases
-      background: /images/Anim_3.gif
+      background: /images/Anim_4.gif
       key_highlights:
         - title: WEEKLY INFECTIOUS DISEASES BULLETIN
           description: ""
